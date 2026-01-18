@@ -144,7 +144,7 @@ export function Room1({ onComplete, username }: Room1Props) {
               <p className="text-xs text-yellow-800 uppercase mb-1">Dr. Marsh - Notes:</p>
               <p className="text-sm text-gray-800">
                 "The patient's condition is critical. When asked what they truly suffer from, 
-                they could not speak it aloud. The answer exists only in the <span className="underline font-bold">first</span> moments 
+                they could not speak it aloud. The answer exists only in the moments 
                 of each symptom."
               </p>
             </motion.div>
